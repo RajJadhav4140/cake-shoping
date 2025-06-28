@@ -85,14 +85,14 @@
     overflow: hidden;
 
 }
-h1{
+.heading h1{
     text-align: center;
     color: hsl(225, 12%, 93%);
     font-size: 24px;
     padding: 10px;
     font-family: Geneva, Tahoma, sans-serif;
 }
-p{
+.para p{
     text-align: center;
     margin-top: 15px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -126,7 +126,7 @@ img{
     transform: scale(1.1);
     object-fit: cover;
 }
-    @media screen and (max-width:487px) {
+ @media screen and (max-width:487px) {
     .nav{
         display:none;
         background-color:red;
