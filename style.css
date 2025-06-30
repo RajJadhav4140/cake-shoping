@@ -26,6 +26,7 @@
 }
 .nav ul li a{
     text-decoration: none;
+    color: hwb(0 91% 6%);
 }
 .video-section{
     height: 100vh;
